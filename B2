@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+    <table border="1" style="width:30%; height:100px;" bgcolor="#F4E45">
+        <tr border="1">
+            <th colspan="4" align="center"><b>BẢNG ĐIỂM</b></th>
+        </tr>
+        <tr>
+            <th rowspan="2">Họ và tên</th>
+            <th colspan="3">Điểm thi</th>
+        </tr>
+        <tr>
+            </tr>
+        <tr>
+            <td>Toán</td>
+            <td>Vật Lý</td>
+            <td>Hóa Học</td>
+        </tr>
+    </table>
+</body>
+</html>
