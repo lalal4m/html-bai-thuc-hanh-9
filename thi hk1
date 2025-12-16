@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Trung tâm Tin học Color Life</title>
+
+    <!-- CSS nội bộ -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 40px;
+        }
+
+        h1 {
+            color: #c0392b;
+            text-align: center;
+        }
+
+        h2 {
+            color: #e74c3c;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #999;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #e74c3c;
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Trung tâm Tin học Color Life</h1>
+
+    <h2>I. Giới thiệu</h2>
+    <ul>
+        <li>Thành lập: 15/04/2015</li>
+        <li>Chuyên đào tạo tin học và lập trình</li>
+        <li>Có nhiều cơ sở tại TP. Hồ Chí Minh</li>
+        <li>Giảng dạy theo chương trình Tin học phổ thông</li>
+    </ul>
+
+    <h2>II. Chương trình học – Tin học 12</h2>
+
+    <table>
+        <tr>
+            <th>Nhóm học phần</th>
+            <th>Môn học</th>
+            <th>Lý thuyết</th>
+            <th>Thực hành</th>
+        </tr>
+
+        <tr>
+            <td rowspan="4">Tin học văn phòng</td>
+            <td>Soạn thảo văn bản</td>
+            <td>24</td>
+            <td>40</td>
+        </tr>
+
+        <tr>
+            <td>Xử lí số liệu</td>
+            <td>24</td>
+            <td>40</td>
+        </tr>
+
+        <tr>
+            <td>Tạo bài trình chiếu</td>
+            <td>9</td>
+            <td>15</td>
+        </tr>
+
+        <tr>
+            <td>Tạo trang web</td>
+            <td>9</td>
+            <td>15</td>
+        </tr>
+
+        <tr>
+            <td>Lập trình</td>
+            <td>Nhập môn lập trình</td>
+            <td>36</td>
+            <td>60</td>
+        </tr>
+    </table>
+
+    <h2>III. Liên hệ</h2>
+    <p>
+        Email:
+        <a href="mailto:contact@hoayeuthuong.com">
+            contact@hoayeuthuong.com
+        </a>
+    </p>
+
+</body>
+</html>
