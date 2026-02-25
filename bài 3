@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>A20-01-BAI-12-VAN-DUNG</title>
+</head>
+
+<body>
+
+<h1>Đăng ký thành viên câu lạc bộ ngoại khóa</h1>
+
+<form>
+    <fieldset>
+        <legend style="color: #CE1C1F">
+            <b>ĐĂNG KÝ CÂU LẠC BỘ NGOẠI KHÓA TRƯỜNG THPT TRẦN PHÚ</b>
+        </legend>
+
+        <p>Vui lòng điền đủ thông tin để đăng ký thành viên của CLB</p>
+
+        <ol>
+            <li>
+                <label for="fullname">Họ và tên</label>
+                <br>
+                <input type="text" name="fullname" size="30">
+            </li>
+
+            <li>
+                <label for="class">Lớp</label>
+                <br>
+                <input type="text" name="class" list="class">
+                
+                <datalist id="class">
+                    <option value="10C1">10C1</option>
+                    <option value="10C2">10C2</option>
+                    <option value="10C3">10C3</option>
+                    <option value="10C4">10C4</option>
+                    <option value="10C5">10C5</option>
+                    <option value="10C6">10C6</option>
+                </datalist>
+            </li>
+
+            <li>
+                <label for="email">Email:</label>
+                <br>
+                <input type="text" name="email" id="email" size="30">
+            </li>
+
+            <li>
+                <label><b>Lựa chọn câu lạc bộ đăng ký</b></label>
+                <select name="club" id="club">
+                    <option value="football">CLB Bóng đá</option>
+                    <option value="volleyball">CLB Bóng chuyền</option>
+                    <option value="basketball">CLB Bóng rổ</option>
+                    <option value="karatedo">CLB Karatedo</option>
+                </select>
+            </li>
+
+        </ol>
+
+        <input type="submit" value="Đăng kí">
+
+    </fieldset>
+</form>
+
+</body>
+</html>
