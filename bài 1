@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>A20-MÃSỐ-TÊN</title>
+</head>
+<body>
+    <h2>Thông tin món ăn</h2>
+    <form>
+        <table border="1px" width="300" height="100">
+            <tr>
+                <td><label for="mon-an">Tên món ăn: </label></td>
+                <td><input type="text" id="mon-an"></td>
+            </tr>
+            <tr>
+                <td><label for="don-gia">Đơn giá: </label></td>
+                <td><input type="text" id="don-gia"></td>
+            </tr>
+            <tr>
+                <td><label for="so-luong">Số lượng: </label></td>
+                <td><input type="text" id="so-luong"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
