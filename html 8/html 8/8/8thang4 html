@@ -1,0 +1,175 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Nguyễn Ánh Linh-A11-20</title>
+<link rel="stylesheet" href="style-thi.css">
+</head>
+
+<body>
+<header>
+
+<div class="banner">
+    <h1>DU LỊCH LỄ 30/4 VÀ 01/5</h1>
+</div>
+
+<div class="category">
+<div class="row">
+
+<div class="block_1">
+<table style="background:#FF991A; width:100%">
+<tr>
+<td><img src="logo-1.png" width="50"></td>
+<td><h1>TOUR TRONG NƯỚC</h1></td>
+</tr>
+</table>
+</div>
+
+<div class="block_1">
+<table style="background:#4A90D9; width:100%">
+<tr>
+<td><img src="logo-2.png" width="50"></td>
+<td><h1>TOUR QUỐC TẾ</h1></td>
+</tr>
+</table>
+</div>
+
+<div class="block_1">
+<table style="background:#4CAF50; width:100%">
+<tr>
+<td><img src="logo-3.png" width="50"></td>
+<td><h1>TOUR TRONG TUẦN</h1></td>
+</tr>
+</table>
+</div>
+
+<div class="block_1">
+<table style="background:#EF897F; width:100%">
+<tr>
+<td><img src="logo-4.png" width="50"></td>
+<td><h1>TOUR KHUYẾN MÃI</h1></td>
+</tr>
+</table>
+</div>
+
+</div>
+</div>
+
+</header>
+
+<table class="table">
+
+<tr>
+
+<td class="cell_img">
+<img src="H1.png" class="img">
+<table style="width:100%">
+<tr>
+<th colspan="2" class="cell_text">TOUR NHẬT BẢN-TOKYO-FUJI</th>
+<td class="cell_text_1">Đặt Tour</td>
+</tr>
+<tr>
+<td colspan="3" class="cell_text_2">Chi Tiết</td>
+</tr>
+<tr>
+<td class="cell_text">PT: Máy bay</td>
+<td class="cell_text">KS: 3 sao</td>
+</tr>
+<tr>
+<td class="cell_text text_gia">Giá tour: 23.990.000</td>
+<td class="cell_text">TH: 5 ngày 4 đêm</td>
+</tr>
+</table>
+</td>
+
+<td class="cell_img">
+<img src="H2.png" class="img">
+<table style="width:100%">
+<tr>
+<th colspan="2" class="cell_text">TOUR ĐÀI LOAN</th>
+<td class="cell_text_1">Đặt Tour</td>
+</tr>
+<tr>
+<td colspan="3" class="cell_text_2">Chi Tiết</td>
+</tr>
+<tr>
+<td class="cell_text">PT: Máy bay</td>
+<td class="cell_text">KS: 3 sao</td>
+</tr>
+<tr>
+<td class="cell_text text_gia">Giá tour: 13.990.000</td>
+<td class="cell_text">TH: 5 ngày 4 đêm</td>
+</tr>
+</table>
+</td>
+
+<td class="cell_img">
+<img src="H3.png" class="img">
+<table style="width:100%">
+<tr>
+<th colspan="2" class="cell_text">TOUR SINGAPORE</th>
+<td class="cell_text_1">Đặt Tour</td>
+</tr>
+<tr>
+<td colspan="3" class="cell_text_2">Chi Tiết</td>
+</tr>
+<tr>
+<td class="cell_text">PT: Máy bay</td>
+<td class="cell_text">KS: 3 sao</td>
+</tr>
+<tr>
+<td class="cell_text text_gia">Giá tour: 12.690.000</td>
+<td class="cell_text">TH: 5 ngày 4 đêm</td>
+</tr>
+</table>
+</td>
+
+</tr>
+
+<tr>
+
+<td class="cell_img"><img src="H4.png" class="img"></td>
+<td class="cell_img"><img src="H5.png" class="img"></td>
+<td class="cell_img"><img src="H6.png" class="img"></td>
+
+</tr>
+</table>
+
+<footer>
+
+<h1 style="color:yellow; text-align:center">
+HỆ THỐNG CHI NHÁNH VIỆT NAM TOURIST
+</h1>
+
+<div class="row">
+
+<div class="block_2">
+<p class="text">TRỤ SỞ TẠI TPHCM</p>
+<ul>
+<li>Điện thoại: 0123456789</li>
+<li>website:<a href="TourTPHCM.html" class="link">Trụ sở TPHCM</a></li>
+</ul>
+</div>
+
+<div class="block_2">
+<p class="text">CHI NHÁNH TÂN PHÚ</p>
+<ul>
+<li>Điện thoại: 0123456789</li>
+<li><a href="TourTP.html" class="link">Chi nhánh Tân Phú</a></li>
+</ul>
+</div>
+
+<div class="block_2">
+<p class="text">CHI NHÁNH HÀ NỘI</p>
+<ul>
+<li>Điện thoại: 0123456789</li>
+<li><a href="TourHN.html" class="link">Chi nhánh Hà Nội</a></li>
+</ul>
+</div>
+
+</div>
+
+</footer>
+
+</body>
+</html>
